@@ -1,3 +1,4 @@
+
 -- Drop existing database and create a new one
 DROP DATABASE IF EXISTS Medical_mart;
 CREATE DATABASE Medical_mart;
